@@ -36,7 +36,7 @@
 
 ### _Instruction_ 
 
-first goto botfather and create a robot
+first go to botfather and create a robot
 
 trun on inline mode, inline location and change Inline feedback to 100%
 
